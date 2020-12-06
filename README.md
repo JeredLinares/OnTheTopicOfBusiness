@@ -12,9 +12,9 @@ This project will serve as a resource to those interested in understanding the 2
 
 
 Planned Topics: 
-1. the first
-    1. the one dot one
-    2. the one dot two
-2. the second 
+1. On the Topic of Business
+    1. First Principles
+        1. Understand Yourself
+2.  
 
 
