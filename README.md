@@ -16,7 +16,7 @@ This project will serve as a resource to those interested in understanding the 2
 
 
 # Forward
-I write this document because of the the unavailability and inaccessablity of the information it contains to a student like me, before now. I made many mistakes on my path from free school lunches in my predominaltly latino grade school, to a degree in engineering and then medicine. I hope this document will show the opportunities available, and how to reach them. 
+I write this document because of the the unavailability and inaccessablity of the information it contains to a student like me, before now. I made many mistakes on my path from free school lunches in my predominaltly latino grade school, to a degree in engineering and then medicine. I hope this document will help ambitious students understand the opportunities available, and how to reach them. 
 
 
 
