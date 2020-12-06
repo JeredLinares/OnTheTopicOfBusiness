@@ -12,8 +12,8 @@ This project will serve as a resource to those interested in understanding the 2
 
 Planned Topics: 
 1. the first
-    1.1. the one dot one
-    1.2. the one dot two
+    1. the one dot one
+    2. the one dot two
 2. the second 
 
 
