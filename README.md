@@ -1,4 +1,4 @@
-# OnTheTopicOfBusiness
+# On The Topic Of Business
 "Takeaways from the MBA"
 By: Jered Diego Linares
 
@@ -12,9 +12,10 @@ This project will serve as a resource to those interested in understanding the 2
 
 Planned Topics: 
 1. Item 1
-1. Item 2
-1.1. 
+  1.1 
 2.
+  2.1
+  
 
 
 
