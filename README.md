@@ -1,4 +1,4 @@
-# On the Topic Of Business
+# On the Topic of Business
 On the Topic of Business: Takeaways from my MBA
 
 By: Jered Diego Linares
